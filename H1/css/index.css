@@ -1051,12 +1051,12 @@ h1 {
 	top: 22px
 }
 
-.page2 .m-time .m-time-run .line.left {
-	left: 0
+.page2 .m-time .m-time-run .line.left { 
+	left: -32px
 }
 
 .page2 .m-time .m-time-run .line.right {
-	right: 0
+	right: -28px
 }
 
 .page2 .m-time .m-time-run .line.left:after,.page2 .m-time .m-time-run .line.right:after {
